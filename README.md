@@ -1,1 +1,1 @@
-# weight
+<table><tbody><tr class="ztXv9"><th style="padding-left:0">Value</th><th>Common weight name</th></tr><tr><td style="padding-left:0">400</td><td><b>Normal (Regular)</b></td></tr><tr><td style="padding-left:0">500</td><td>Medium</td></tr><tr><td style="padding-left:0">600</td><td>Semi Bold (Demi Bold)</td></tr><tr><td style="padding-left:0">700</td><td>Bold</td></tr></tbody></table>
